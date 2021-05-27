@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Carson Thackton but commonly knows as CarThax08 or CarMan08
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am currently a highschool student who develops spigot plugins for fun.
+- I am open for any form of request that you have and you can ask me any questions.
 
 What else do you need?
 
 ### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I constantly tried to start my own minecraft servers using free and public plugins, but onces I realized how boring that is and how bad some of those plugins can be, I decided to learn java development. I started off small, just making projects for my friends whenever they needed, but I eventually got confident enough to release my first plugin publicly on spigot.
