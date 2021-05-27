@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I?
 ---
 
-My name is Carson Thackston but commonly knows as CarThax08 or CarMan08
+My name is Carson Thackston but I am more commonly known as CarThax08 or CarMan08
 
 - I am currently a highschool student who develops spigot plugins for fun.
 - I am open for any form of request that you have and you can ask me any questions.
