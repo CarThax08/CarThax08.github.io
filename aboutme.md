@@ -12,4 +12,4 @@ My name is Carson Thackston but commonly knows as CarThax08 or CarMan08
 What else do you need?
 
 ### My story
-I constantly tried to start my own minecraft servers using free and public plugins, but onces I realized how boring that is and how bad some of those plugins can be, I decided to learn java development. I started off small, just making projects for my friends whenever they needed, but I eventually got confident enough to release my first plugin publicly on spigot.
+I constantly tried to start my own minecraft servers using free and public plugins, but once I realized how boring that is and how bad some of those plugins can be, I decided to learn java development. I started off small, just making projects for my friends whenever they needed, but I eventually got confident enough to release my first plugin publicly on spigot.
