@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: CarThax
 
 # Your name to show in the footer
-author: Some Person
+author: CarThax
 
 # --- List of links in the navigation bar --- #
 
@@ -43,7 +43,7 @@ social-network-links:
   github: CarThax08
 # twitter: daattali
   patreon: CarThax
-  youtube: c/daattali
+ # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
